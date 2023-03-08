@@ -1,0 +1,11 @@
+{
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true
+  },
+  "appid": "tte232948f7d0c78fc01",
+  "projectname": "nianmao-tiktok"
+}

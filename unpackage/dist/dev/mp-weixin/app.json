@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/index",
+    "pages/person-setting/index",
+    "pages/vip/index",
+    "pages/search/index",
+    "pages/details/index",
+    "pages/collect/index",
+    "pages/person-setting/privacy/index",
+    "pages/person-setting/account/index",
+    "pages/vip/turnAccount/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
